@@ -13,6 +13,14 @@
     "README.md"
   ],
   "keywords": ["git", "branch", "management"],
-  "author": "Your Name",
-  "license": "MIT"
+  "author": "bin",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liubin0520/git-submodule-util.git"
+  },
+  "bugs": {
+    "url": "https://github.com/liubin0520/git-submodule-util/issues"
+  },
+  "homepage": "https://github.com/liubin0520/git-submodule-util#readme"
 }
