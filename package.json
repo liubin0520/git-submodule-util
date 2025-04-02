@@ -1,0 +1,18 @@
+{
+  "name": "git-submodule-util",
+  "version": "1.0.0",
+  "description": "管理和切换 Git 分支的工具",
+  "main": "index.js",
+  "bin": {
+    "gsu": "./bin/git-submodule-util.js"
+  },
+  "scripts": {},
+  "files": [
+    "bin/",
+    "lib/",
+    "README.md"
+  ],
+  "keywords": ["git", "branch", "management"],
+  "author": "Your Name",
+  "license": "MIT"
+}
