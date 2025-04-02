@@ -1,6 +1,6 @@
 {
   "name": "git-submodule-util",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "管理和切换 Git 分支的工具",
   "main": "index.js",
   "bin": {
@@ -12,7 +12,11 @@
     "lib/",
     "README.md"
   ],
-  "keywords": ["git", "branch", "management"],
+  "keywords": [
+    "git",
+    "branch",
+    "management"
+  ],
   "author": "bin",
   "license": "MIT",
   "repository": {
