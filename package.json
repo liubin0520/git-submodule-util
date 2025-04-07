@@ -1,6 +1,6 @@
 {
   "name": "git-submodule-util",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "管理和切换 Git 分支的工具",
   "main": "index.js",
   "bin": {
